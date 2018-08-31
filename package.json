@@ -1,0 +1,21 @@
+{
+  "name": "vidly",
+  "version": "1.0.0",
+  "description": "movie-renting tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Dhananjay",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "joi": "^13.6.0",
+    "mongoose": "^5.2.12"
+  },
+  "keywords": [
+    "vidly"
+  ]
+}
